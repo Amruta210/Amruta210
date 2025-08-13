@@ -10,15 +10,43 @@
 - 💼 Hands-on with AWS EC2, S3, IAM, VPC, EBS, EFS, RDS, Docker, Jenkins Pipelines
 - 💡 Passionate about automation, cloud infrastructure, and CI/CD
 
-
 ---
 
 ## 🛠 Skills & Tools
 
-**Cloud:** AWS (EC2, S3, IAM, VPC, RDS, EBS, EFS, CloudWatch)  
-**OS & Networking:** Linux (Ubuntu, CentOS), Networking Basics, Shell Scripting  
-**DevOps Tools:** Docker, Jenkins, Git, GitHub, Terraform, Kubernetes, Prometheus, Grafana, SonarQube  
-**Languages:** Python (Basics), Bash
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+</p>
+
+### 🐧 Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60"/>
+</p>
+
+### ⚙️ DevOps & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
+</p>
+
+### 📊 Monitoring & Code Quality
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SonarQube_Logo.png" alt="SonarQube" width="100" height="40"/>
+</p>
+
+### 💻 Programming & Scripting
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
+</p>
 
 ---
 
