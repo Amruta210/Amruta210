@@ -56,4 +56,4 @@
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/amruta-bhawane) | [GitHub](https://github.com/Amruta210) | Email: **amrutabhawane@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/amruta-bhawane) | [GitHub](https://github.com/Amruta210) | Email: **amrutabhawane@outlook.com**
