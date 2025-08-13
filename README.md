@@ -7,7 +7,7 @@
 - 💡 I'm interested in building **secure, automated, and production-ready Cloud solutions**
 - 🔭 Looking for **entry-level roles or internships** in Cloud & DevOps
 - 👨‍💻 All my projects are available at [GitHub/Amruta210](https://github.com/Amruta210)
-- 📫 Reach me at: **amrutabhawane@gmail.com**
+- 📫 Reach me at: **amrutabhawane@outlook.com**
 
 ---
 
