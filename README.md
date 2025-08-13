@@ -30,21 +30,17 @@
 
 ### 📌 My Projects
 
-- 🔹 **AWS VPC Setup & Peering**  
-  - Tools: AWS VPC, Subnets, Security Groups, Route Tables, Peering Connections  
-  - GitHub Repo: [aws-vpc-setup](https://github.com/Amruta210/aws-vpc-setup)
+-## 🚀 Projects
 
-- 🔹 **CI/CD Pipeline with Jenkins & Docker**  
-  - Tools: Jenkins, Docker, GitHub, AWS EC2  
-  - GitHub Repo: [cicd-pipeline](https://github.com/Amruta210/cicd-pipeline)
+### [Super Mario Clone](https://github.com/Amruta210/super-mario-clone)
+A nostalgic game inspired by **Super Mario**, built to explore game development fundamentals.
 
-- 🔹 **Monitoring with Prometheus & Grafana**  
-  - Tools: Prometheus, Grafana, AWS EC2  
-  - GitHub Repo: [monitoring-setup](https://github.com/Amruta210/monitoring-setup)
+**Technologies:** HTML5, CSS3, JavaScript  
+**Features:**  
+- Classic 2D platformer gameplay  
+- Player controls and obstacle interactions  
+- Dynamic animations and scoring system  
 
-- 🔹 **Static Website Hosting with S3 + CloudFront**  
-  - Tools: HTML, S3, CloudFront, Route 53  
-  - GitHub Repo: [portfolio-website](https://github.com/Amruta210/portfolio-website)
 
 ---
 
